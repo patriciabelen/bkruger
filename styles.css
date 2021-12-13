@@ -87,7 +87,7 @@ h2 {
 }
 .first {
 	transform:rotate(5deg);
-	top:180px;
+	top:200px;
 	right:0;
 	position: absolute;
 	background-color: red;
@@ -96,7 +96,7 @@ h2 {
 	}
 .last {
 	transform:rotate(-3deg);
-	top:340px;
+	top:360px;
 	right:50px;
 	position: absolute;
 	background-color: red;
